@@ -1,0 +1,37 @@
+body{
+    background: cornflowerblue;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.header_div{
+    background-color:coral;
+    color: chocolate;
+}
+.header_div p{
+    font-family: monospace;
+    color: beige;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: fantasy, cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 130px;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    font-size: xx-large;
+}
+.copy_right_footer{
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    font-size: 20;
+    background-color: darkgoldenrod;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 5px 5px 5px chartreuse;
+}
